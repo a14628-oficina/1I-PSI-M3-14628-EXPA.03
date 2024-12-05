@@ -1,1 +1,1 @@
-<h3>Pedidos</h3>
+<h3>Loja de Reparações</h3>
