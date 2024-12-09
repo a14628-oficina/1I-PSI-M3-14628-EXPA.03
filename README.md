@@ -1,4 +1,4 @@
-<h5>Loja de Reparações</h5>
+<h1>Loja de Reparações</h1>
 
 Este programa foi desemvolvido em sala de aula com o objetivo de gestão de pedidos, atribuindo 3 níveis de prioridades.
 Este código foi desemvolvido em python.
