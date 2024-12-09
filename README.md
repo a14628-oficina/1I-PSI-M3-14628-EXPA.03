@@ -17,4 +17,14 @@ O programa é divido em partes cada parte é dividida por uma função como:
 
 -Esta função serve para consultar o equipamento da pessoa no stock, serve para ver se está lá ou não.
 
+<h3>def atualizar_estado(pedidos)</h3>
 
+-Esta função serve para que atualize o estado do computador para mostar se está  ["Pendente", "Em Andamento", "Concluído"].
+
+<h3>def exibir_pedidos(pedidos):</h3>
+
+-Esta função serve para exibir todo os pedidos registrados no stock.
+
+<h3>def main():</h3>
+
+-def main é praticamente o menu do programa que serve para escolher a opção que queres utlizar.
