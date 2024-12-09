@@ -12,3 +12,9 @@ O programa é divido em partes cada parte é dividida por uma função como:
 <h3>def registar_pedido(pedidos):</h3>
 
 -Esta função serve para registar o pedido da pessoa e é a base do programa e ao registrar crias um ID para o equipamento para facilitar a pesquisa dele depois no stock.
+
+<h3>def consultar_pedido(pedidos):</h3>
+
+-Esta função serve para consultar o equipamento da pessoa no stock, serve para ver se está lá ou não.
+
+
