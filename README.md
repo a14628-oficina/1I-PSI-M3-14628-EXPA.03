@@ -23,11 +23,11 @@ O programa é divido em partes cada parte é dividida por uma função como:
 
 <h3>def exibir_pedidos(pedidos):</h3>
 
--Esta função serve para exibir todo os pedidos registrados no stock.
+-Esta função serve para exibir todo os pedidos registrados no menu.
 
 <h3>def eliminar_pedido(pedidos):</h3>
 
--Esta função serve para eleminar o pedido do cliente do stock.
+-Esta função serve para eleminar o pedido do cliente  no menu.
 
 <h3>def main():</h3>
 
