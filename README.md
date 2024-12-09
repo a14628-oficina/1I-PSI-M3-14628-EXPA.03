@@ -25,6 +25,10 @@ O programa é divido em partes cada parte é dividida por uma função como:
 
 -Esta função serve para exibir todo os pedidos registrados no stock.
 
+<h3>def eliminar_pedido(pedidos):</h3>
+
+-Esta função serve para eleminar o pedido do cliente do stock.
+
 <h3>def main():</h3>
 
 -def main é praticamente o menu do programa que serve para escolher a opção que queres utlizar.
