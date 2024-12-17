@@ -1,6 +1,6 @@
 <h1>Loja de Reparações</h1>
 
-Este programa foi desemvolvido em sala de aula com o objetivo de gestão de pedidos, atribuindo 3 níveis de prioridades.
+Este programa foi desenvolvido em sala de aula com o objetivo de gestão de pedidos, atribuindo 3 níveis de prioridades.
 Este código foi desemvolvido em python.
 
 <h3> Sobre o Programa</h3>
